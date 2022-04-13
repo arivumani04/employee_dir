@@ -36,6 +36,7 @@ dependencies:
     intl: ^0.15.8
 
     http: '0.11.3+17'
+    path_provider: ^1.6.28
 
 
 dev_dependencies:
